@@ -1,0 +1,58 @@
+[
+  {
+    "id": 0,
+    "categoria": "mandalas",
+    "name": "logros",
+    "price": "2500",
+    "stock": 5,
+    "img": "https://drive.google.com/file/d/1guCWZ3Kx-eiqMZVloOUmwh7avJWXkGJz/view?usp=sharing"
+  },
+  {
+    "id": 1,
+    "categoria": "mandalas",
+    "name": "superior",
+    "price": "1500",
+    "stock": 5,
+    "img": "https://drive.google.com/file/d/1yZuxJSrPlmsZTbtBbInzC1Jo4D_vy1jT/view?usp=sharing"
+  },
+  {
+    "id": 2,
+    "categoria": "mandalas",
+    "name": "arcoiris",
+    "price": "1500",
+    "stock": 5,
+    "img": "https://drive.google.com/file/d/1MZM-iGQxnIMR9dgqZImxzae4dI3DHWT4/view?usp=sharing"
+  },
+  {
+    "id": 3,
+    "categoria": "mandalas",
+    "name": "celebra la vida",
+    "price": "2000",
+    "stock": 5,
+    "img": "https://drive.google.com/file/d/1fg554Mi61Mj8TDni7p-LDzBEoKMnTVv6/view?usp=sharing"
+  },
+  {
+    "id": 4,
+    "categoria": "atrapasueños",
+    "name": "doble",
+    "price": "1500",
+    "stock": 5,
+    "img": "https://drive.google.com/file/d/1-61RZtH5DhgSqwJ1zAwI_aq6QCtLqyzJ/view?usp=sharing"
+  },
+  {
+    "id": 5,
+    "categoria": "atrapasueños",
+    "name": "triple",
+    "price": "2000",
+    "stock": 5,
+    "img": "https://drive.google.com/file/d/14nWYKNvUEDW-xak7IOS9-M9qekO9h_Sk/view?usp=sharing"
+  },
+  {
+    "id": 6,
+    "categoria": "atrapasueños",
+    "name": "buho",
+    "price": "1000",
+    "stock": 5,
+    "img": "https://drive.google.com/file/d/1O3raAMjL-i0kB70IfmZ8MxRRcf8AWD9-/view?usp=sharing"
+  }
+]
